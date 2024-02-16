@@ -75,7 +75,7 @@
                                 </h1>
                                 <div id="text-justify">
                                     <p class="mb-4">
-                                        IntelliGuard hello is your trusted tool to quickly and reliably identify bias and
+                                        IntelliGuard is your trusted tool to quickly and reliably identify bias and
                                         misinformation in news articles. Our system has been meticulously trained using
                                         a 
                                         dataset labeled by expert evaluators. We've leveraged this dataset to build a
