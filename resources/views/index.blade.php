@@ -77,7 +77,7 @@
                                     <p class="mb-4">
                                         IntelliGuard is your trusted tool to quickly and reliably identify bias and
                                         misinformation in news articles. Our system has been meticulously trained using
-                                        a
+                                        a 
                                         dataset labeled by expert evaluators. We've leveraged this dataset to build a
                                         robust
                                         text classification system that effectively distinguishes between real and fake
