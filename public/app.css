@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.body {
+    background-color: #F8FAFC;
+}
+
+.navbar-brand {
+    color: #7752FE;
+}
+
+.navbar-brand:hover {
+    color:#7752FE;
+}
+
+.nav-item:hover {
+    color: #0D6EFD;
+}
+
+.navbar-nav .nav-item a.nav-link {
+    color: black;
+}
+
+.navbar-nav .nav-item a.nav-link:hover {
+    color: #7752FE;
+}
+
+.card{
+    background-color: #ffffff;
+}
+
+#card2{
+    background-color: #fafafa;
+    /* border: none; */
+}
+
+.heading{
+    color: #7752FE; 
+}
+
+#text-justify{
+    text-align: justify;
+}
+
+#btn-main {
+    background-color: #7752FE;
+    color: white;
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+#btn-main:hover {
+    background-color: #4C2EE2;
+    color: #FFFFFF; 
+}
+
+.img {
+    background-color: #C2D9FF;
+}
+
+#bg {
+    background-color: #C2D9FF;
+}
+
+#btn-contact {
+    background-color: #7752FE;
+    color: white;
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+#btn-contact:hover {
+    background-color: #4C2EE2;
+    color: #FFFFFF; 
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+#detect-button {
+    background-color: #7752FE;
+    color: #FFFFFF; 
+}
+
+/* to top */
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #7752FE; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 50px; /* Rounded corners */
+  }
+  
+#myBtn:hover {
+    background-color: #4C2EE2; /* Add a dark-grey background on hover */
+}
+
+/* Responsive styles for tablets */
+@media (max-width: 768px) {
+    #text-align {
+        text-align: center;
+    }
+}
+
+/* Responsive styles for mobile phones */
+@media (max-width: 576px) {
+    #text-align {
+        text-align: center;
+    }
+}
